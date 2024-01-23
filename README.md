@@ -1,5 +1,5 @@
 # downtube
-YouTube Video Downloader and Converter.
+YouTube Video Downloader and Converter (Spanish).
 This Python script is part of a small project that puts into practice the Python skills acquired so far. The application is designed to download YouTube videos in MP4 format at the highest available quality. Additionally, after downloading, it provides the option to convert the video to MP3 format. The application automatically creates a dedicated folder to store the downloads.
 
 Please note that this repository includes only the Python code for the script. To properly visualize the graphical interface, it is necessary to download the various libraries specified at the top of the file.
